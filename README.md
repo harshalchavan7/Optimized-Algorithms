@@ -5,17 +5,24 @@ Welcome to the Optimized Algorithms Repository! This repository is dedicated to 
 ## Table of Contents
 1. [Prime Number Generation](#prime-number-generation)
 2. [Inorder Traversal](#inorder-traversal)
-3. [Counting Bits](#counting-bits)
-4. [Brian Kernighan Algorithm](#brian-kernighan-algorithm)
-5. [Quick Sort](#quick-sort)
-6. [Reverse Bits](#reverse-bits)
-7. [And More](#and-more)
+3. [Preorder_Traversal](#preorder-traversal)
+4. [Postorder_Traversal](#postorder-traversal)
+5. [Counting Bits](#counting-bits)
+6. [Brian Kernighan Algorithm](#brian-kernighan-algorithm)
+7. [Quick Sort](#quick-sort)
+8. [Reverse Bits](#reverse-bits)
 
 ## Prime Number Generation
 Efficient methods for generating prime numbers.
 
 ## Inorder Traversal
 Optimized implementations for inorder tree traversal.
+
+## Preorder Traversal
+Optimized implementations for preorder tree traversal.
+
+## Postorder Traversal
+Optimized implementations for postorder tree traversal.
 
 ## Counting Bits
 Algorithms to efficiently count the number of set bits in a binary number.
@@ -28,8 +35,5 @@ Efficient implementations of the Quick Sort algorithm for sorting arrays.
 
 ## Reverse Bits
 Optimized approaches to reverse the bits of an integer.
-
-## And More
-Explore further to find additional optimized algorithms and their implementations.
 
 Feel free to contribute your own optimized algorithms or suggest improvements to existing ones. Happy coding!
