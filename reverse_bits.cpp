@@ -1,17 +1,23 @@
 /*So the approach is traversing the integer bit by bit from right to left, if there's 1 in last digit, double it and one, else just double it*/
 
 #include <iostream>
+using namespace std;
 
-uint32_t reverseBits(uint32_t n) {
-    uint32_t ans=0;
-    for(int i=0;i<32;i++)
+uint32_t reverseBits(uint32_t n)
+{
+    uint32_t ans = 0;
+    for (int i = 0; i < 32; i++)
     {
-        int t=n&(1<<i);
-        if(t) ans=ans*2+1;
-        else ans=ans*2;
+        int t = (n >> i) & 1;
+        ans = (ans << 1) | t;
     }
     return ans;
-}  
+}
+
+int main()
+{
+    cout<<reverseBits(5);
+}
 
 /*
 uint32_t reverseBits(uint32_t n) {
