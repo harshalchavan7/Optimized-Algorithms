@@ -11,6 +11,7 @@ Welcome to the Optimized Algorithms Repository! This repository is dedicated to 
 6. [Brian Kernighan Algorithm](#brian-kernighan-algorithm)
 7. [Quick Sort](#quick-sort)
 8. [Reverse Bits](#reverse-bits)
+9. [Linear Search](#linear-search)
 
 ## Prime Number Generation
 Efficient methods for generating prime numbers.
@@ -35,5 +36,8 @@ Efficient implementations of the Quick Sort algorithm for sorting arrays.
 
 ## Reverse Bits
 Optimized approaches to reverse the bits of an integer.
+
+## Linear Search
+Algorithm for searching an element (key) from the array.
 
 Feel free to contribute your own optimized algorithms or suggest improvements to existing ones. Happy coding!
