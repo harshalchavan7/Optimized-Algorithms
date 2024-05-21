@@ -38,6 +38,15 @@ Efficient implementations of the Quick Sort algorithm for sorting arrays.
 Optimized approaches to reverse the bits of an integer.
 
 ## Linear Search
-Algorithm for searching an element (key) from the array.
+Algorithm for searching an element (key) from the array using linear search.
+
+## Binary Search
+Algorithm for searching an element (key) from the array using binary search.
+
+## Bubble Sort
+Algorithm for sorting an array using bubble sort.
+
+## Merge Sort
+Algorithm for sorting an array using merge sort.
 
 Feel free to contribute your own optimized algorithms or suggest improvements to existing ones. Happy coding!
