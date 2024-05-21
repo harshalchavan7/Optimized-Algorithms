@@ -13,9 +13,7 @@ vector<int> countBits(int n)
 int main()
 {
     vector<int> result = countBits(5);
-    for (int i = 0; i < result.size(); ++i) {
-        cout << result[i] << " ";
-    }
+    for (int i = 0; i < result.size(); ++i) cout << result[i] << " ";
     return 0;
 }
 
