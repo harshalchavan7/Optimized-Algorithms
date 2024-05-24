@@ -12,6 +12,9 @@ Welcome to the Optimized Algorithms Repository! This repository is dedicated to 
 7. [Quick Sort](#quick-sort)
 8. [Reverse Bits](#reverse-bits)
 9. [Linear Search](#linear-search)
+10. [Binary Search](#binary-search)
+11. [Bubble Sort](#bubble-sort)
+12. [Merge Sort](#merge-sort)
 
 ## Prime Number Generation
 Efficient methods for generating prime numbers.
