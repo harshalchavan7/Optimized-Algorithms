@@ -3,21 +3,18 @@
 Welcome to the Optimized Algorithms Repository! This repository is dedicated to storing efficient implementations of various algorithms in C++. From classic algorithms like prime number generation, tree traversals, and sorting techniques to more specialized tasks such as counting bits and reversing bits, you'll find optimized solutions here.
 
 ## Table of Contents
-1. [Prime Number Generation](#prime-number-generation)
-2. [Inorder Traversal](#inorder-traversal)
-3. [Preorder_Traversal](#preorder-traversal)
-4. [Postorder_Traversal](#postorder-traversal)
-5. [Counting Bits](#counting-bits)
-6. [Brian Kernighan Algorithm](#brian-kernighan-algorithm)
-7. [Quick Sort](#quick-sort)
-8. [Reverse Bits](#reverse-bits)
-9. [Linear Search](#linear-search)
-10. [Binary Search](#binary-search)
-11. [Bubble Sort](#bubble-sort)
-12. [Merge Sort](#merge-sort)
-
-## Prime Number Generation
-Efficient methods for generating prime numbers.
+1. [Inorder Traversal](#inorder-traversal)
+2. [Preorder_Traversal](#preorder-traversal)
+3. [Postorder_Traversal](#postorder-traversal)
+4. [Counting Bits](#counting-bits)
+5. [Brian Kernighan Algorithm](#brian-kernighan-algorithm)
+6. [Quick Sort](#quick-sort)
+7. [Reverse Bits](#reverse-bits)
+8. [Linear Search](#linear-search)
+9. [Binary Search](#binary-search)
+10. [Bubble Sort](#bubble-sort)
+11. [Merge Sort](#merge-sort)
+12. [Binary Search Tree](#binary-search-tree)
 
 ## Inorder Traversal
 Optimized implementations for inorder tree traversal.
@@ -51,5 +48,8 @@ Algorithm for sorting an array using bubble sort.
 
 ## Merge Sort
 Algorithm for sorting an array using merge sort.
+
+## Binary Search Tree
+A complete implementation of a binary search tree with menu based operations.
 
 Feel free to contribute your own optimized algorithms or suggest improvements to existing ones. Happy coding!
